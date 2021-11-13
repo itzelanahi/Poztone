@@ -1,7 +1,8 @@
 # Poztone
 Pozo inteligente; analiza la calidad y filtrado del agua.
 
-Planteamiento del problema- 
+Planteamiento del problema-
+
 Un pozo de agua es: una tecnología de captación en la tierra para recoger agua de acuíferos o mantos de aguas subterráneas por bombeo.
 Por lo general en comunidades o pueblos se construyen pozos excavados que son de poca profundidad, se construye por medio de utensilios como picos, palas, o equipo para excavación; como cucharones de arena. Se utilizan cuando el nivel freático se encuentra muy cercano a la superficie. 
 Sin embargo, la contaminación de agua subterránea en los últimos años se ha centrado en actividades humanas que están relacionadas con la disposición de residuos (de aguas residuales en sistemas privados, residuos sólidos en basureros, de aguas municipales, depósitos de lodos, de industria petrolera, industria minera, emisión de residuos líquidos en pozos profundos, residuos de animales, o radiactivos) o no directamente relacionado con emisión de residuos (accidentes, algunas actividades agrícolas, minería, deshielo de carreteras, lluvia ácida, construcción y mantenimiento inadecuado de edificios, sal en caminos y carreteras). 
