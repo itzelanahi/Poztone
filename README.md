@@ -16,22 +16,29 @@
 <p style="text-align: justify;"><span style="font-weight: 400;">Adem&aacute;s, en las comunidades los ciudadanos no pagar&iacute;an a un laboratorio qu&iacute;mico para un an&aacute;lisis detallado de la calidad de agua de su pozo excavado, ya sea por el gasto econ&oacute;mico que generar&iacute;a o por el tiempo que llevar&iacute;a dicho an&aacute;lisis, porque necesitan esa agua de modo urgente al no tener agua potable.</span></p>
 <p style="text-align: justify;"><span style="font-weight: 400;">Es por ello, que con el proyecto &ldquo;Poztone&rdquo;, al crear un dispositivo que pueda checar la calidad de agua de dicho pozo de manera r&aacute;pida, eficaz y que d&eacute; algunas opciones de filtrado, los ciudadanos podr&aacute;n saber si dicha agua est&aacute; en condiciones de ser usada, y si no, que hacer para mejorar la calidad de esta&nbsp; puede hacer para su dicho uso.</span></p>
 <p style="text-align: center;"><b>OBJETIVOS</b></p>
-<p><b>Objetivo general:</b></p>
-<p><span style="font-weight: 400;">Mejorar la calidad y filtrado del agua en pozos usando el IoT (Internet of Things) bas&aacute;ndonos en la programaci&oacute;n y rob&oacute;tica, aumentando as&iacute; la seguridad y eficacia de la misma.</span></p>
-<p><b>Objetivos espec&iacute;ficos:</b></p>
-<p><span style="font-weight: 400;">- Detectar las impurezas del agua dentro de los pozos.</span></p>
-<p><span style="font-weight: 400;">- Limpiar el agua usando filtros.</span></p>
-<p><span style="font-weight: 400;">- Evitar enfermedades por el consumo de agua sucia.</span></p>
-<p><span style="font-weight: 400;">- Implementar nuevas tecnolog&iacute;as.</span></p>
-<p><span style="font-weight: 400;">- Reducir la contaminaci&oacute;n en pozos de agua.</span></p>
-<p><span style="font-weight: 400;">- Actualizar los pozos de agua comunes en algo innovador.</span></p>
-<p style="text-align: center;"><b>&iquest;CUMPLE CON ALGUNO DE LOS OBJETIVOS DEL PNUD?</b></p>
-<p style="text-align: justify;"><span style="font-weight: 400;">Nuestro proyecto &ldquo;Poztone&rdquo; s&iacute; est&aacute; alineado con uno de los objetivos del PNUD (Programa de las Naciones Unidas para el Desarrollo). Cumple con el objetivo 6 Agua limpia y saneamiento: Garantizar la disponibilidad de agua y su gesti&oacute;n sostenible y el saneamiento para todos.</span></p>
-<p><b>REFERENCIAS BIBLIOGR&Aacute;FICAS</b></p>
-<p style="text-align: center;"></p>
-<p></p>
+<p><strong>Objetivo general:</strong></p>
+<p>Mejorar la calidad y filtrado del agua en pozos usando el IoT (Internet of Things) bas&aacute;ndonos en la programaci&oacute;n y rob&oacute;tica, aumentando as&iacute; la seguridad y eficacia de la misma.</p>
+<p>&nbsp;</p>
+<p><strong>Objetivos espec&iacute;ficos:</strong></p>
+<p>- Dise&ntilde;ar e implementar un dispositivo que permita verificar la calidad de agua de un pozo y si lo requiere, recomendar un tipo de filtro.</p>
+<p>- Obtener los datos espec&iacute;ficos del agua a trasv&eacute;s de los sensores (PH, turbidez y conductividad)</p>
+<p>- &nbsp;Enviar la informaci&oacute;n obtenida por los sensores y compartirla en internet</p>
+<p>- Procesar la informaci&oacute;n almacenada para integrarla en un tablero de indicadores en internet y determinar el tipo de filtro que se requiera en dicho pozo.</p><p><strong>&iquest;CUMPLE CON ALGUNO DE LOS OBJETIVOS DEL PNUD?</strong></p>
+<p>Nuestro proyecto &ldquo;Poztone&rdquo; s&iacute; est&aacute; alineado con uno de los objetivos del PNUD (Programa de las Naciones Unidas para el Desarrollo). Cumple con el objetivo 6 Agua limpia y saneamiento: Garantizar la disponibilidad de agua y su gesti&oacute;n sostenible y el saneamiento para todos.</p>
+<p><strong>REFERENCIAS BIBLIOGR&Aacute;FICAS</strong></p>
+<p>&nbsp;</p>
 <ul>
-<li><span style="font-weight: 400;"></span><span style="font-weight: 400;"> &nbsp; &nbsp; &nbsp; </span><span style="font-weight: 400;">Instituto Mexicano de Tecnolog&iacute;a del Agua. (2019). Aguas subterr&aacute;neas. 2021, de Gobierno de M&eacute;xico Sitio web: https://www.gob.mx/imta/articulos/aguas-subterraneas</span></li>
-<li><span style="font-weight: 400;"></span><span style="font-weight: 400;"> &nbsp; </span><span style="font-weight: 400;">Lenntech. (1998). Fuentes de contaminaci&oacute;n de aguas subterr&aacute;neas. 2021, de WATER TREATMENT SOLUTIONS Sitio web: https://www.lenntech.es/agua-subterranea/fuentes-contaminacion.htm</span></li>
-<li><span style="font-weight: 400;"></span><span style="font-weight: 400;"> &nbsp; </span><span style="font-weight: 400;">EPA. (2020). Acerca de los pozos de agua privados. 2021, de EPA Sitio web: https://espanol.epa.gov/espanol/acerca-de-los-pozos-de-agua-privados</span></li>
+<li>Instituto Mexicano de Tecnolog&iacute;a del Agua. (2019). Aguas subterr&aacute;neas. 2021, de Gobierno de M&eacute;xico Sitio web: https://www.gob.mx/imta/articulos/aguas-subterraneas</li>
+<li>(1998). Fuentes de contaminaci&oacute;n de aguas subterr&aacute;neas. 2021, de WATER TREATMENT SOLUTIONS Sitio web: https://www.lenntech.es/agua-subterranea/fuentes-contaminacion.htm</li>
+<li>(2020). Acerca de los pozos de agua privados. 2021, de EPA Sitio web: https://espanol.epa.gov/espanol/acerca-de-los-pozos-de-agua-privados</li>
+<li>Ch&aacute;vez M., Rivera G., Romero T. &amp; Vizcarra I.. (2012). El pozo: usos, seguridad y tradici&oacute;n en la subcuenca del r&iacute;o San Javier. Noviembre 17, 2021, de Estudios sociales (Hermosillo, Son.) Sitio web: http://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S0188-45572013000100011</li>
+<li>Ruth C.. (2018). Consejos para purificar el agua de pozo. Noviembre 17, 2021, de Clarin Sitio web: https://www.clarin.com/arq/consejos-purificar-agua-pozo_0_j7EjN3V7K.html</li>
+<li>&Aacute;nonimo. (2015). SISTEMAS DE TRATAMIENTO DE AGUAS DE POZO | INDUSTRIAL Y COMERCIAL. Noviembre 17, 2021, de Pure Aqua, Inc. Sitio web: https://es.pureaqua.com/blog/sistemas-de-tratamiento-de-agua-de-pozo/</li>
+<li>Javier S&aacute;nchez San Rom&aacute;n. (Sin a&ntilde;o). Contaminaci&oacute;n de las aguas subterr&aacute;neas. 2021. Sitio web: https://hidrologia.usal.es/temas/contaminacion.pdf</li>
+<li>(2021). Software. Diciembre 6, 2021, de MIlenium, S.A. Sitio web: https://www.informaticamilenium.com.mx/es/temas/que-es-software.html</li>
+<li>(2021). &iquest;Qu&eacute; es el IoT?. Diciembre 6, 2021, de Oracle Sitio web: https://www.oracle.com/mx/internet-of-things/what-is-iot/</li>
+<li>(2021). &iquest;Que es Raspberry Pi?. Diciembre 6, 2021, de MCIElectronics Sitio web: https://raspberrypi.cl/que-es-raspberry/</li>
+<li>Valdivielso, A. (2021). &iquest;Qu&eacute; es un pozo de agua?. Diciembre 6, 2021, de Iagua Sitio web: https://www.iagua.es/respuestas/que-es-pozo-agua</li>
+<li>(2021). Medidor de pH. Diciembre 6, 2021, de Omega Engineering Sitio web: https://es.omega.com/prodinfo/medidor-ph.html</li>
+<li>Electr&oacute;nica I+D. (2021). Sensor de turbidez (calidad de agua). Diciembre 6, 2021, de Electr&oacute;nica I+D Sitio web: https://www.didacticaselectronicas.com/index.php/sensores/ambientales/sensor-de-turbidez-calidad-de-agua-sensores-de-turbidez-agua-turbiedad-calidad-de-agua-dfrobot-detail</li>
 </ul>
